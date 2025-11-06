@@ -5,11 +5,13 @@
 
 <img width="1910" height="1011" alt="Screenshot 2025-11-06 184400" src="https://github.com/user-attachments/assets/21749a0b-a5fd-4ef7-b224-7e9483f5bfee" />
 
+
 ## 2. Storyboard 
 
 <img width="2000" height="1600" alt="STORYBOARD" src="https://github.com/user-attachments/assets/21164ad2-91f2-4d06-a312-f4f03c2b2e4f" />
 
 https://www.canva.com/design/DAG0JWVBNRc/hd1tuVpXoXyTqeS9UoYqWw/edit?utm_content=DAG0JWVBNRc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 ## 3. Mockup Project
 
@@ -17,11 +19,13 @@ https://www.canva.com/design/DAG0JWVBNRc/hd1tuVpXoXyTqeS9UoYqWw/edit?utm_content
 
 https://www.figma.com/design/C5Q4CevUW9Gv0vFYtq4Nme/Untitled?t=tfzkrFMx7W4oGcuj-1
 
+
 ## 4. UI (User Interface) Project
 
 <img width="1919" height="967" alt="Screenshot 2025-11-06 185549" src="https://github.com/user-attachments/assets/f493edf0-8972-4b19-a693-662c13f574c1" />
 
 https://www.figma.com/design/j06nDpzR1o9ff5lt3Puwhi/Untitled?t=tfzkrFMx7W4oGcuj-1
+
 
 ## 5. UX (User Experience)
 
