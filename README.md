@@ -13,7 +13,7 @@
 https://www.canva.com/design/DAG0JWVBNRc/hd1tuVpXoXyTqeS9UoYqWw/edit?utm_content=DAG0JWVBNRc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
-## 3. Mockup Project
+## 3. Mockup / Wireframe
 
 <img width="2146" height="855" alt="UTS MOCKUP" src="https://github.com/user-attachments/assets/5789a31e-d878-4e25-a538-947384ed0605" />
 
