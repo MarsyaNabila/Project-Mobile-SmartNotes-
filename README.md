@@ -24,7 +24,7 @@ https://www.figma.com/design/C5Q4CevUW9Gv0vFYtq4Nme/Untitled?t=tfzkrFMx7W4oGcuj-
 
 <img width="2700" height="844" alt="Untitled" src="https://github.com/user-attachments/assets/677d7657-8754-47e9-9526-bc96f00b7a28" />
 
-https://www.figma.com/design/j06nDpzR1o9ff5lt3Puwhi/Untitled?t=tfzkrFMx7W4oGcuj-1
+https://www.figma.com/design/aUDKmeE8EhmWqg2eUp7GKr/Untitled?node-id=0-1&t=yaZVZk8ImGS4WETY-1
 
 
 ## 5. UX (User Experience)
