@@ -29,7 +29,7 @@ https://www.figma.com/design/aUDKmeE8EhmWqg2eUp7GKr/Untitled?node-id=0-1&t=yaZVZ
 
 ## 5. UX (User Experience)
 
-<img width="1159" height="412" alt="Screenshot 2025-11-07 054321" src="https://github.com/user-attachments/assets/c79a6683-c76b-4c75-b512-197fe90fe41f" />
+<img width="1157" height="394" alt="image" src="https://github.com/user-attachments/assets/bf1b9433-b9af-4729-8ee7-0d19c14cceab" />
 
 
 https://www.figma.com/design/RAcCBIGWZ2IOiMSDY88Rc7/UI---UX?t=tfzkrFMx7W4oGcuj-1
