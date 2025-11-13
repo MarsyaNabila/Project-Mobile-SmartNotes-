@@ -22,7 +22,7 @@ https://www.figma.com/design/C5Q4CevUW9Gv0vFYtq4Nme/Untitled?t=tfzkrFMx7W4oGcuj-
 
 ## 4. UI (User Interface) Project
 
-<img width="2700" height="844" alt="Untitled" src="https://github.com/user-attachments/assets/9a64698c-106c-4298-9a8b-cd2c0489a32a" />
+<img width="2700" height="844" alt="Untitled" src="https://github.com/user-attachments/assets/677d7657-8754-47e9-9526-bc96f00b7a28" />
 
 https://www.figma.com/design/j06nDpzR1o9ff5lt3Puwhi/Untitled?t=tfzkrFMx7W4oGcuj-1
 
