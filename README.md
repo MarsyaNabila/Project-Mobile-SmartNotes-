@@ -34,4 +34,6 @@ https://www.figma.com/design/RAcCBIGWZ2IOiMSDY88Rc7/UI---UX?t=tfzkrFMx7W4oGcuj-1
 
 ## 6. Splash screen 
 
+<img width="1250" height="844" alt="Splash Screen (1)" src="https://github.com/user-attachments/assets/cc64c96e-d0cf-4fd9-a2c2-147d820f9365" />
+
 
